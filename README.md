@@ -1,5 +1,8 @@
 # Alfred-Volume-Control-Workflow
 
+<img width="637" height="186" alt="Screenshot 2026-01-20 at 17 37 56" src="https://github.com/user-attachments/assets/7fc71c23-4468-4805-a3fc-56d8b91323ad" />
+
+
 Control Your system volume direct from alfred. By default the workflow sets "vol as the main keyword and "v" as the quick keyword, if you change these then replace all instances of "vol" and "v" below for the functions, note that arguments and modifiers made after the keywords remain the same. Below are the keywords you use to access the functions:
 
 - "vol" - The keyword that triggers the options, you can follow this with any number between 0 and 100 to set the volume to that percentage.
@@ -9,6 +12,8 @@ Control Your system volume direct from alfred. By default the workflow sets "vol
 - "Vol s" - Adding an s after the "vol" keyword will show a menu of predetermined volume states.
 
 - "Vol c" - Adding a c after the "Vol" keyword will print your current volume number.
+
+<img width="678" height="494" alt="Screenshot 2026-01-20 at 17 48 02" src="https://github.com/user-attachments/assets/ffa36b60-7c94-4c35-97c1-6c8e885dd767" />
 
 Preset Options:
 - Mute (mutes output volume)
