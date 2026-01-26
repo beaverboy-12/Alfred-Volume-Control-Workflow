@@ -9,8 +9,6 @@ Control Your system volume direct from alfred. By default the workflow sets "vol
 
 - "V" - On its own the letter "V" followed by a space can be used to quick show a series of preset options for volume.
 
-- "Vol s" - Adding an s after the "vol" keyword will show a menu of predetermined volume states.
-
 - "Vol c" - Adding a c after the "Vol" keyword will print your current volume number.
 
 <img width="678" height="494" alt="Screenshot 2026-01-20 at 17 48 02" src="https://github.com/user-attachments/assets/ffa36b60-7c94-4c35-97c1-6c8e885dd767" />
